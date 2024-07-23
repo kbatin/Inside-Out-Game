@@ -21,3 +21,4 @@ To play the game, open the Jupyter notebook. Follow the instructions in the note
 
 Download the [Inside Out Game Notebook](https://github.com/kbatin/kbworks.github.io/blob/main/insideoutgame.ipynb)
 
+[Inside Out Game HTML](https://github.com/kbatin/kbworks.github.io/blob/main/insideoutgame.html)
