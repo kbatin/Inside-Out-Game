@@ -20,4 +20,4 @@ Feel free to explore the code, play the game, and provide any feedback!
 
 Download the [Inside Out Game Notebook](https://github.com/kbatin/kbworks.github.io/blob/main/insideoutgame.ipynb)
 
-View the [Inside Out Game HTML](https://github.com/kbatin/kbworks.github.io/blob/main/insideoutgame.html) in HTML
+View the [Inside Out Game](https://github.com/kbatin/kbworks.github.io/blob/main/insideoutgame.html) in HTML
