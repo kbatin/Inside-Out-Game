@@ -1,5 +1,5 @@
-# Inside Out Game
-
+# Inside Out Game (December, 2023)
+![Logo](png-clipart-inside-out-movie-characters-inside-out-characters-at-the-movies-cartoons.png)
 Welcome to my Text Adventure Game Development project! This project was designed as an assignment to utilize various Python essentials, creating an engaging and interactive text-based adventure game. The objective is to navigate through different stages, making decisions that influence the outcome. The game is designed to be completed in under 3 minutes, offering a quick yet engaging experience. Below you'll find the key components and structure of the project.
 
 ### Game Overview
