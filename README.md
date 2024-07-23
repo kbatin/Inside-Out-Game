@@ -13,6 +13,7 @@ The game is based on Inside Out (2015) film, providing an immersive experience w
 - Win and Fail Functions: Contains a singular win() function executed upon game completion and a fail() function for unsuccessful attempts.
 
 **Known Bugs**
+
 While the game is fully playable, some bugs may not yet be resolved:
 
 Feel free to explore the code, play the game, and provide any feedback!
