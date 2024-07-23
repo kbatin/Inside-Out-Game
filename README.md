@@ -12,11 +12,11 @@ The game is based on Inside Out (2015) film, providing an immersive experience w
 - Conditional Statements: Features nested conditional statements, each with an else clause to guide player decisions.
 - Win and Fail Functions: Contains a singular win() function executed upon game completion and a fail() function for unsuccessful attempts.
 
-**Known Bugs**
-
+#### Known Bugs
 While the game is fully playable, some bugs may not yet be resolved:
 
 Feel free to explore the code, play the game, and provide any feedback!
+
 
 Download the [Inside Out Game Notebook](https://github.com/kbatin/kbworks.github.io/blob/main/insideoutgame.ipynb)
 
