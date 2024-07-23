@@ -17,6 +17,7 @@ While the game is fully playable, some bugs may not yet be resolved.
 
 Feel free to explore the code, play the game, and provide any feedback!
 
+To play the game, open the Jupyter notebook. Follow the instructions in the notebook to play through the game.
 
 Download the [Inside Out Game Notebook](https://github.com/kbatin/kbworks.github.io/blob/main/insideoutgame.ipynb)
 
