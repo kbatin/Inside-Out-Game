@@ -17,3 +17,5 @@ While the game is fully playable, some bugs may not yet be resolved:
 
 Feel free to explore the code, play the game, and provide any feedback!
 
+[Inside Out Game Notebook](https://github.com/kbatin/kbworks.github.io/blob/main/insideoutgame.ipynb)
+[Inside Out Game HTML](https://github.com/kbatin/kbworks.github.io/blob/main/insideoutgame.html)
