@@ -20,7 +20,7 @@ Feel free to explore the code, play the game, and provide any feedback!
 
 To play the game, open the Jupyter notebook. Follow the instructions in the notebook to play through the game.
 
-Download the [Inside Out Game Notebook](https://github.com/kbatin/kbworks.github.io/blob/main/insideoutgame.ipynb)
+Check the [Inside Out Game Notebook](https://github.com/kbatin/Inside-Out-Game/blob/main/insideoutgame.ipynb)
 
 
 <sub>[Image Source](https://electricliterature.com/pixars-inside-out-and-the-literature-of-interiority/)</sub>
